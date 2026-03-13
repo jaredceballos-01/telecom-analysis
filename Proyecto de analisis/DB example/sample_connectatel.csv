@@ -1,0 +1,11 @@
+user_id,age,city,plan,cant_mensajes,cant_llamadas,total_minutos_llamada
+1001,24,Ciudad Ficticia,Premium,2,11,127.71
+1002,36,Ciudad Ficticia,Premium,18,5,42.11
+1003,33,Ciudad Ficticia,Premium,1,14,86.74
+1004,26,Ciudad Ficticia,Premium,5,14,10.8
+1005,21,Ciudad Ficticia,Premium,6,1,8.78
+1006,66,Ciudad Ficticia,Basico,7,6,79.9
+1007,37,Ciudad Ficticia,Basico,11,4,143.88
+1008,40,Ciudad Ficticia,Basico,15,2,43.48
+1009,50,Ciudad Ficticia,Premium,18,14,51.79
+1010,42,Ciudad Ficticia,Basico,8,8,87.35

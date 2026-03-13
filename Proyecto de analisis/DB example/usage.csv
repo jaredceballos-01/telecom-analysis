@@ -1,0 +1,5 @@
+user_id,month,calls_count,minutes_sum,messages_count
+1001,1,12,155.69,17
+1001,2,5,40.0,4
+1002,1,8,60.5,9
+1003,2,15,120.0,2

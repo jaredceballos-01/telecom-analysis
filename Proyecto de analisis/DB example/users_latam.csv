@@ -1,0 +1,4 @@
+user_id,age,city,reg_date,plan
+1001,25,Ciudad A,2023-01-01,Basico
+1002,45,Ciudad B,2023-05-10,Premium
+1003,65,Ciudad C,2024-02-15,Basico
