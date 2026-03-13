@@ -50,3 +50,5 @@ Clona el repositorio.
 Asegúrate de tener instaladas las dependencias necesarias (pip install pandas matplotlib seaborn).
 
 Ejecuta el notebook principal para ver el flujo de análisis completo.
+
+Cambiar la ubicación de los repositorios .csv para poder ejecutarlos, estos son de ejemplo ya que por porteccion de datos no se pueden entrar los .csv originales
